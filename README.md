@@ -1,2 +1,2 @@
-# iamsound.zora.co
-iamsound.zora.co
+# status.zebedee.io
+status.zebedee.io
